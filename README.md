@@ -1,9 +1,8 @@
-# BLENDED_LEARNING
 # Implementation-of-Stochastic-Gradient-Descent-SGD-Regressor
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE: 09.09.24</H3>
 
 ## AIM:
 To write a program to implement Stochastic Gradient Descent (SGD) Regressor for linear regression and evaluate its performance.
