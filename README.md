@@ -40,7 +40,7 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
    Make predictions and visualize the results.
 
 ## Program:
-```
+```py
 # Importing necessary libraries
 import pandas as pd
 import numpy as np
